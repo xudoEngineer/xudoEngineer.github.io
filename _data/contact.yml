@@ -3,8 +3,8 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+ # icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
@@ -12,7 +12,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin' 
-  url:  ''      
+  url:  'https://www.linkedin.com/in/singhkishan1510'      
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -21,6 +21,6 @@
 #
             
 #
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+- type: medium
+  icon: 'fab fa-medium'
+  url:  'https://medium.com/@Kishan_s1ngh'                  # Fill with your stackoverflow homepage
