@@ -9,18 +9,6 @@ tags: [cloud,azure,public cloud]
 ## Introduction
 Cloud computing revolutionizes the way businesses and individuals access, manage, and utilize computing resources. This markdown file provides an overview of cloud computing, its benefits, and different deployment models.
 
-## Key Concepts
-
-- **24x7 Electricity Supply:** Cloud data centers ensure uninterrupted power supply, enabling continuous operation of services.
-
-- **System Administration:** Cloud environments require a team of system administrators for regular resource updates, patch management, and maintenance.
-
-- **Scalability:** Cloud infrastructure offers scalability, allowing users to easily increase or decrease computing resources based on demand.
-
-- **Overheating:** Data centers implement cooling systems to prevent overheating and maintain optimal operating conditions.
-
-- **Public Cloud:** Services provided over the internet by third-party providers, such as Amazon Web Services (AWS), where users share resources on a pay-as-you-go basis.
-
 ## Cloud Computing Overview
 
 Cloud computing involves accessing and managing computing resources (e.g., servers, storage, databases, software applications) over the internet. It eliminates the need for owning and maintaining physical hardware, offering scalability, cost-effectiveness, and flexibility.
